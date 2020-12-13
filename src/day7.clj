@@ -6,7 +6,7 @@
 ; and algorithms, where it is then very easy to walk along the edges and track arbitrary 
 ; computations, like summing and multiplying along the path.
 
-(ns day8
+(ns day7
   (:require
     [clojure.string :as str]
     [clojure.java.io :as io]
